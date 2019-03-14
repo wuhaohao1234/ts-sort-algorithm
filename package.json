@@ -1,7 +1,7 @@
 {
-  "name": "ts-sort-algorithm",
-  "version": "1.0.0",
-  "main": "src/index.js",
+  "name": "ts-sort-algorithm-wuhao",
+  "version": "1.0.1",
+  "main": "dist/index.js",
   "repository": "https://github.com/wuhaohao1234/ts-sort-algorithm.git",
   "author": "wuhaohao <1611499758@qq.com>",
   "license": "MIT",
@@ -11,6 +11,7 @@
     "lint": "tslint --project tslint.json"
   },
   "devDependencies": {
+    "ts-sort-algorithm-wuhao": "^1.0.1",
     "tslint": "^5.14.0",
     "typescript": "^3.3.3333"
   },

@@ -6,7 +6,7 @@
     "sourceMap": true, //生成map文件
     "target": "es6",
     "removeComments": true, //删除注释
-    "declaration": false, //没有描述
+    "declaration": true, //没有描述
     "moduleResolution": "node", //node模块
     "noImplicitAny": true,
     "experimentalDecorators": true
