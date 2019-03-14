@@ -1,0 +1,20 @@
+{
+  "name": "ts-sort-algorithm",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/wuhaohao1234/ts-sort-algorithm.git",
+  "author": "wuhaohao <1611499758@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsc",
+    "lint": "tslint --project tslint.json"
+  },
+  "devDependencies": {
+    "tslint": "^5.14.0",
+    "typescript": "^3.3.3333"
+  },
+  "dependencies": {
+    "@types/node": "^11.11.3"
+  }
+}
